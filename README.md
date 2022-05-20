@@ -1,4 +1,4 @@
-# <h1 align="center">Hi, I'm <a href="https://github.com/Kathryn-Jie">@LovyKarismae<a><</h1>
+# <h1 align="center">Hi, I'm <a href="https://github.com/Kathryn-Jie">@LovyKarismae<a></h1>
     
 <div>
 <strong>About Me:</strong><br>
