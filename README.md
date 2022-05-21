@@ -2,7 +2,7 @@
     
 <div>
 <strong>About Me:</strong><br>
-💻 Students of UUniversitas Dian Nuswantoro Semarang Central Java <br>
+💻 Students of Universitas Dian Nuswantoro Semarang Central Java <br>
 📚 I’m love math everyday loving frontend<br>
   
 <strong>✨ My Languages :</strong><br><br>
